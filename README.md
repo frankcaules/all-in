@@ -17,3 +17,5 @@ if you save it.
 
 Sources: Ronay & von Hippel (2010); Liu, Wang, Zhu, Zhang & Xing (2022); Shanks et al. (2015); Shanks & Vadillo (2019).
 The full references are in the end credits.
+
+**The sequel, ALL IN II: Double or Nothing** (Presentation 2, literature review): https://frankcaules.github.io/all-in/p2/ · for class: https://frankcaules.github.io/all-in/p2/present.html
